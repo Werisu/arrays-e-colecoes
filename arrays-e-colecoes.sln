@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "curso-alura-trabalhando-com-arrays-e-colecoes", "curso-alura-trabalhando-com-arrays-e-colecoes\curso-alura-trabalhando-com-arrays-e-colecoes.csproj", "{82A4F99C-5911-4027-B90A-A0D428ED498A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82A4F99C-5911-4027-B90A-A0D428ED498A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A4F99C-5911-4027-B90A-A0D428ED498A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A4F99C-5911-4027-B90A-A0D428ED498A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A4F99C-5911-4027-B90A-A0D428ED498A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89B951F2-AAB9-44F8-9C34-8A66DA31A97D}
+	EndGlobalSection
+EndGlobal
